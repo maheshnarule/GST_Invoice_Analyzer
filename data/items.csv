@@ -1,0 +1,604 @@
+hsn code,category,item name,rate of gst
+31021000,Agriculture,Urea (Fertilizer),5%
+31053000,Agriculture,DAP Fertilizer,5%
+31042000,Agriculture,MOP Fertilizer,5%
+31022100,Agriculture,Ammonium Sulphate,5%
+28332930,Agriculture,Zinc Sulphate Fertilizer,5%
+31010099,Agriculture,Compost Manure,5%
+31010010,Agriculture,Organic Fertilizer,5%
+31010020,Agriculture,Bio-Fertilizers,5%
+38089199,Agriculture,Pesticides,18%
+38089110,Agriculture,Insecticides,18%
+38089210,Agriculture,Fungicides,18%
+38089340,Agriculture,Herbicides,18%
+87019000,Agriculture,Tractors,12%
+84328020,Agriculture,Power Tillers,12%
+84137010,Agriculture,Irrigation Pump (Tubewell),12%
+84138120,Agriculture,Solar Water Pump,5%
+84248200,Agriculture,Sprinkler Irrigation System,12%
+84248200,Agriculture,Drip Irrigation System,12%
+84335100,Agriculture,Harvesting Machine,12%
+84322910,Agriculture,Rotavator,12%
+84322920,Agriculture,Cultivator,12%
+84321000,Agriculture,Plough,12%
+84334000,Agriculture,Thresher,12%
+84335100,Agriculture,Combine Harvester,12%
+84328010,Agriculture,Rice Transplanter,12%
+12072090,Agriculture,Cotton Seeds,5%
+12011000,Agriculture,Soybean Seeds,0%
+10051000,Agriculture,Maize Seeds,0%
+10011010,Agriculture,Wheat Seeds,0%
+10063010,Agriculture,Paddy Seeds,0%
+12099190,Agriculture,Vegetable Seeds,0%
+12099990,Agriculture,Fruit Seeds,0%
+12021010,Agriculture,Groundnut Seeds,5%
+12075090,Agriculture,Mustard Seeds,0%
+12060090,Agriculture,Sunflower Seeds,0%
+23099010,Agriculture,Cattle Feed,0%
+23099020,Agriculture,Poultry Feed,0%
+23099030,Agriculture,Fish Feed,0%
+23069090,Agriculture,Mustard Oil Cake,5%
+23061000,Agriculture,Cotton Oil Cake,5%
+23023000,Agriculture,Rice Bran,5%
+10059000,Agriculture,Maize Grain,0%
+10019900,Agriculture,Wheat Grain,0%
+10063010,Agriculture,Rice/Paddy,0%
+7139010,Agriculture,Pulses (Dal),0%
+12129910,Agriculture,Sugarcane,0%
+53031010,Agriculture,Raw Jute,0%
+52010020,Agriculture,Raw Cotton,5%
+53050040,Agriculture,Coir Fibre,0%
+12130000,Agriculture,Husk (Agri Waste),0%
+4090000,Agriculture,Beehives (Honey),0%
+50010010,Agriculture,Raw Silk,0%
+51011110,Agriculture,Wool (Raw),0%
+14011000,Agriculture,Bamboo,0%
+23069030,Agriculture,Neem Cake,5%
+17031000,Agriculture,Molasses,5%
+17011290,Agriculture,Jaggery (Gur),0%
+8039010,Agriculture,Fresh Fruits (Banana),0%
+8045020,Agriculture,Fresh Fruits (Mango),0%
+8081000,Agriculture,Fresh Fruits (Apple),0%
+7019000,Agriculture,Fresh Vegetables (Potato),0%
+7031010,Agriculture,Fresh Vegetables (Onion),0%
+7020000,Agriculture,Fresh Vegetables (Tomato),0%
+17019910,Agriculture,Sugar,5%
+9021010,Agriculture,Tea Leaves,5%
+9011110,Agriculture,Coffee Beans,5%
+40011010,Agriculture,Rubber (Natural Latex),5%
+24011010,Agriculture,Tobacco Leaves,0%
+9041110,Agriculture,Black Pepper,5%
+9103020,Agriculture,Turmeric,5%
+9101000,Agriculture,Ginger,5%
+9083090,Agriculture,Cardamom,5%
+9092200,Agriculture,Coriander Seeds,5%
+9093100,Agriculture,Cumin Seeds,5%
+9109912,Agriculture,Fenugreek Seeds,5%
+15149110,Agriculture,Mustard Oil,5%
+15089090,Agriculture,Groundnut Oil,5%
+15121990,Agriculture,Sunflower Oil,5%
+15071000,Agriculture,Soybean Oil,5%
+15122910,Agriculture,Cottonseed Oil,5%
+15131900,Agriculture,Coconut Oil,5%
+40117010,Agriculture,Tractor Tyres,28%
+82011000,Agriculture,Hand Tools (Spade/Shovel),12%
+82013000,Agriculture,Sickle,12%
+82014000,Agriculture,Axe,12%
+82015000,Agriculture,Hoe,12%
+39172110,Agriculture,Irrigation Pipes (HDPE),18%
+39172310,Agriculture,Irrigation Pipes (PVC),18%
+39269080,Agriculture,Greenhouse Shade Net,18%
+39201099,Agriculture,Polyhouse Sheets (Plastic),18%
+39201019,Agriculture,Mulching Sheets,12%
+84244100,Agriculture,Sprayers (Manual),12%
+84248200,Agriculture,Sprayers (Power Operated),12%
+39251090,Agriculture,Water Tank (Plastic),18%
+84818030,Agriculture,Irrigation Valves,18%
+84323100,Agriculture,Seed Drill Machine,12%
+84322930,Agriculture,Weeder Machine,12%
+84328040,Agriculture,Potato Planter,12%
+84359000,Agriculture,Cane Crusher (for Jaggery),12%
+84341000,Agriculture,Dairy Milking Machine,12%
+84333900,Agriculture,Silage Cutter,12%
+84372990,Agriculture,Seed Separator,12%
+84371000,Agriculture,Paddy Cleaner,12%
+84194000,Agriculture,Grain Dryer,12%
+84334000,Agriculture,Threshing Drum,12%
+90278000,Agriculture,Soil Testing Kit,18%
+88024000,Agriculture,Agri Drone,12%
+82015000,Agriculture,Hand Hoe,12%
+84137020,Agriculture,Sprinkler Pump Motor,12%
+39269090,Agriculture,Seedling Tray,18%
+76169990,Agriculture,Agri Shade Net Clips,18%
+8701,Autombiles,Tractors (other than road tractors),12%
+870110,Autombiles,Pedestrian controlled tractors,12%
+870120,Autombiles,Road tractors for semi-trailers,28%
+870130,Autombiles,Track-laying tractors,12%
+870190,Autombiles,Other tractors,12%
+8702,Autombiles,Motor vehicles for transport of ?10 persons,28%
+870210,Autombiles,Buses with compression-ignition (diesel) engines,28%
+870220,Autombiles,Buses with spark-ignition engines,28%
+870290,Autombiles,Other buses / minibuses,28%
+8703,Autombiles,Motor cars & other motor vehicles for transport of persons,28%
+870310,Autombiles,"Golf cars, snow vehicles",28%
+870321,Autombiles,"Passenger cars, spark-ignition engine ? 1000cc",28%
+870322,Autombiles,"Passenger cars, spark-ignition 10001500cc",28%
+870323,Autombiles,"Passenger cars, spark-ignition 15003000cc",28%
+870324,Autombiles,"Passenger cars, spark-ignition > 3000cc",28%
+870331,Autombiles,"Passenger cars, diesel ? 1500cc",28%
+870332,Autombiles,"Passenger cars, diesel 15002500cc",28%
+870333,Autombiles,"Passenger cars, diesel > 2500cc",28%
+870340,Autombiles,Vans & similar vehicles,28%
+870350,Autombiles,Specially designed racing cars,28%
+870360,Autombiles,Vehicles with both electric motor & ICE (hybrids),28%
+870370,Autombiles,Electric motor cars,5%
+870390,Autombiles,Other passenger motor vehicles,28%
+8704,Autombiles,Motor vehicles for transport of goods,28%
+870410,Autombiles,Dumpers,28%
+870421,Autombiles,"Goods vehicles, spark-ignition engine ? 5T GVW",28%
+870422,Autombiles,"Goods vehicles, spark-ignition > 5T GVW",28%
+870431,Autombiles,Diesel goods vehicles ? 5T GVW,28%
+870432,Autombiles,Diesel goods vehicles > 5T ? 20T GVW,28%
+870433,Autombiles,Diesel goods vehicles > 20T GVW,28%
+8705,Autombiles,Special purpose motor vehicles,28%
+870510,Autombiles,Crane lorries,28%
+870520,Autombiles,Fire-fighting vehicles,28%
+870530,Autombiles,Concrete mixer lorries,28%
+870540,Autombiles,Road sweeper lorries,28%
+870590,Autombiles,Other special purpose vehicles,28%
+8706,Autombiles,Chassis fitted with engines,28%
+87060011,Autombiles,Bus chassis fitted with engine,28%
+87060019,Autombiles,Other bus chassis,28%
+87060021,Autombiles,Truck chassis fitted with engine,28%
+87060029,Autombiles,Other truck chassis,28%
+8707,Autombiles,Bodies for motor vehicles,28%
+870710,Autombiles,Bodies for passenger cars,28%
+870790,Autombiles,Other vehicle bodies,28%
+8708,Autombiles,Parts & accessories of motor vehicles,28%
+870810,Autombiles,Bumpers & parts,28%
+870821,Autombiles,Safety seat belts,28%
+870829,Autombiles,"Other body parts (doors, hoods, grilles)",28%
+870831,Autombiles,Mounted brake linings & pads,28%
+870832,Autombiles,"Brake discs, drums, plates",28%
+870833,Autombiles,Clutches & parts,18%
+870834,Autombiles,"Steering wheels, steering columns",18%
+870839,Autombiles,Other steering parts,18%
+870840,Autombiles,Gear boxes & parts,18%
+870850,Autombiles,Drive axles with differential,18%
+870860,Autombiles,Non-driving axles,18%
+870870,Autombiles,Road wheels & parts,28%
+870880,Autombiles,Suspension shock absorbers,28%
+870891,Autombiles,Radiators,18%
+870892,Autombiles,Silencers & exhaust pipes,18%
+870893,Autombiles,Clutch linings & parts,18%
+870894,Autombiles,Steering wheels & steering boxes,18%
+870895,Autombiles,Airbags (safety),28%
+870899,Autombiles,Other parts & accessories (misc.),28%
+8709,Autombiles,"Works trucks, self-propelled (no lifting device)",28%
+870911,Autombiles,Electrical works trucks,28%
+870919,Autombiles,Other works trucks,28%
+8711,Autombiles,Motorcycles (including mopeds),28%
+871110,Autombiles,Motorcycles with engine ? 50cc,28%
+871120,Autombiles,Motorcycles with engine 50250cc,28%
+871130,Autombiles,Motorcycles with engine 250500cc,28%
+871140,Autombiles,Motorcycles with engine > 500cc,28%
+871150,Autombiles,Electric motorcycles,5%
+871190,Autombiles,Other motorcycles,28%
+8712,Autombiles,Bicycles & other cycles (not motorized),12%
+87120010,Autombiles,Bicycles (complete),12%
+87120090,Autombiles,Other bicycles,12%
+871310,Autombiles,Carriages for disabled persons (not motorized),5%
+871390,Autombiles,Carriages for disabled persons (motorized),12%
+8714,Autombiles,"Parts of motorcycles, bicycles, invalid carriages",28%
+871410,Autombiles,"Frames, forks & parts",28%
+871420,Autombiles,"Wheels, rims & spokes",28%
+871491,Autombiles,Frames & forks for bicycles,28%
+871492,Autombiles,Wheel rims & spokes for bicycles,28%
+871493,Autombiles,"Hubs, brakes for bicycles",28%
+871494,Autombiles,Saddles,28%
+871495,Autombiles,"Pedals, crank-gear & parts",28%
+871496,Autombiles,Frames & parts of invalid carriages,28%
+871499,Autombiles,Other parts of motorcycles & cycles,28%
+3004,Medical,Paracetamol Tablets,12%
+3004,Medical,Antibiotic Syrup,12%
+3004,Medical,Vitamin C Capsules,12%
+3004,Medical,Cough Syrup,12%
+3004,Medical,Pain Relief Gel,12%
+3004,Medical,Antacid Tablets,12%
+3004,Medical,Multivitamin Syrup,12%
+3004,Medical,Antifungal Cream,12%
+3004,Medical,Insulin Injection,12%
+3004,Medical,Antibiotic Injection,12%
+3002,Medical,Polio Vaccine,5%
+3002,Medical,Hepatitis B Vaccine,5%
+3002,Medical,COVID-19 Vaccine,5%
+3002,Medical,Influenza Vaccine,5%
+3002,Medical,Rabies Vaccine,5%
+9025,Medical,Digital Thermometer,12%
+9025,Medical,Infrared Thermometer,12%
+9025,Medical,Blood Pressure Monitor,12%
+9027,Medical,Glucometer,12%
+9027,Medical,ECG Machine,18%
+9018,Medical,Stethoscope,18%
+9018,Medical,Oximeter,12%
+9018,Medical,Ultrasound Scanner,18%
+9018,Medical,MRI Machine,18%
+9018,Medical,X-Ray Machine,18%
+9021,Medical,Wheelchair,5%
+9021,Medical,Hospital Bed,5%
+9021,Medical,Ventilator,12%
+9021,Medical,Defibrillator,12%
+9021,Medical,Infusion Pump,12%
+9021,Medical,Dialysis Machine,12%
+3006,Medical,Bandages,12%
+3006,Medical,Surgical Gloves,12%
+3006,Medical,Face Masks,12%
+3006,Medical,Syringes,12%
+3006,Medical,IV Sets,12%
+3006,Medical,Cotton Rolls,12%
+3006,Medical,First Aid Kit,12%
+3006,Medical,Hand Sanitizer,12%
+9018,Medical,Scalpel,18%
+9018,Medical,Surgical Scissors,18%
+9018,Medical,Surgical Forceps,18%
+9018,Medical,Needle Holder,18%
+9018,Medical,Retractor,18%
+9025,Medical,Fitness Tracker,12%
+9025,Medical,Smart Watch (Health),12%
+9029,Medical,Wearable ECG Monitor,12%
+9029,Medical,Heart Rate Monitor,12%
+9029,Medical,Sleep Tracker,12%
+3004,Medical,Paracetamol Tablets Premium,12%
+3004,Medical,Antibiotic Syrup Basic,12%
+3004,Medical,Vitamin C Capsules Advanced,12%
+3004,Medical,Cough Syrup Pro,12%
+3004,Medical,Pain Relief Gel Standard,12%
+3004,Medical,Antacid Tablets Premium,12%
+3004,Medical,Multivitamin Syrup Basic,12%
+3004,Medical,Antifungal Cream Advanced,12%
+3004,Medical,Insulin Injection Pro,12%
+3004,Medical,Antibiotic Injection Standard,12%
+3002,Medical,Polio Vaccine Premium,5%
+3002,Medical,Hepatitis B Vaccine Basic,5%
+3002,Medical,COVID-19 Vaccine Advanced,5%
+3002,Medical,Influenza Vaccine Pro,5%
+3002,Medical,Rabies Vaccine Standard,5%
+9025,Medical,Digital Thermometer Premium,12%
+9025,Medical,Infrared Thermometer Basic,12%
+9025,Medical,Blood Pressure Monitor Advanced,12%
+9027,Medical,Glucometer Pro,12%
+9027,Medical,ECG Machine Standard,18%
+9018,Medical,Stethoscope Premium,18%
+9018,Medical,Oximeter Basic,12%
+9018,Medical,Ultrasound Scanner Advanced,18%
+9018,Medical,MRI Machine Pro,18%
+9018,Medical,X-Ray Machine Standard,18%
+9021,Medical,Wheelchair Premium,5%
+9021,Medical,Hospital Bed Basic,5%
+9021,Medical,Ventilator Advanced,12%
+9021,Medical,Defibrillator Pro,12%
+9021,Medical,Infusion Pump Standard,12%
+9021,Medical,Dialysis Machine Premium,12%
+3006,Medical,Bandages Basic,12%
+3006,Medical,Surgical Gloves Advanced,12%
+3006,Medical,Face Masks Pro,12%
+3006,Medical,Syringes Standard,12%
+3006,Medical,IV Sets Premium,12%
+3006,Medical,Cotton Rolls Basic,12%
+3006,Medical,First Aid Kit Advanced,12%
+3006,Medical,Hand Sanitizer Pro,12%
+9018,Medical,Scalpel Standard,18%
+9018,Medical,Surgical Scissors Premium,18%
+9018,Medical,Surgical Forceps Basic,18%
+9018,Medical,Needle Holder Advanced,18%
+9018,Medical,Retractor Pro,18%
+9025,Medical,Fitness Tracker Standard,12%
+9025,Medical,Smart Watch (Health) Premium,12%
+9029,Medical,Wearable ECG Monitor Basic,12%
+9029,Medical,Heart Rate Monitor Advanced,12%
+9029,Medical,Sleep Tracker Pro,12%
+3004,Medical,Paracetamol Tablets Standard,12%
+3004,Medical,Antibiotic Syrup Premium,12%
+8517,Electronics,Mobile Phones,12%
+8471,Electronics,Laptops,18%
+8471,Electronics,Desktops,18%
+8471,Electronics,Tablets,18%
+8517,Electronics,Smart Watches,18%
+8528,Electronics,Television (LED/LCD),28%
+8528,Electronics,Projectors,18%
+8443,Electronics,Printers,18%
+8443,Electronics,Scanners,18%
+8517,Electronics,Routers,18%
+8517,Electronics,Modems,18%
+8525,Electronics,CCTV Cameras,18%
+8525,Electronics,Digital Cameras,18%
+8518,Electronics,Speakers,18%
+8518,Electronics,Headphones,18%
+8518,Electronics,Bluetooth Earbuds,18%
+8518,Electronics,Home Theatre Systems,18%
+8516,Electronics,Microwave Ovens,18%
+8418,Electronics,Refrigerators,18%
+8415,Electronics,Air Conditioners,28%
+8450,Electronics,Washing Machines,28%
+8451,Electronics,Dishwashers,28%
+8414,Electronics,Electric Fans,18%
+8421,Electronics,Water Purifiers,18%
+8516,Electronics,Induction Cooktops,18%
+8516,Electronics,Electric Irons,18%
+8509,Electronics,Vacuum Cleaners,18%
+8516,Electronics,Electric Kettles,18%
+8516,Electronics,Hair Dryers,18%
+8510,Electronics,Trimmers,18%
+8510,Electronics,Electric Shavers,18%
+8517,Electronics,Smart Home Hubs,18%
+9504,Electronics,Game Consoles,28%
+9010,Electronics,Projector Screens,18%
+9504,Electronics,VR Headsets,28%
+8523,Electronics,USB Flash Drives,18%
+8471,Electronics,External Hard Drives,18%
+8523,Electronics,Memory Cards,18%
+8507,Electronics,Power Banks,18%
+8504,Electronics,UPS Systems,18%
+8504,Electronics,Inverters,18%
+8507,Electronics,Batteries (Rechargeable),18%
+8539,Electronics,LED Bulbs,12%
+8539,Electronics,Smart Lighting Systems,18%
+8544,Electronics,Wires & Cables,18%
+8536,Electronics,Switches,18%
+8536,Electronics,Sockets,18%
+8537,Electronics,Extension Boards,18%
+8516,Electronics,Electric Geysers,18%
+8516,Electronics,Room Heaters,18%
+6301,Electronics,Electric Blankets,12%
+9025,Electronics,Digital Thermometers,12%
+9025,Electronics,Blood Pressure Monitors,12%
+9027,Electronics,Glucometers,12%
+9029,Electronics,Fitness Bands,12%
+9004,Electronics,Smart Glasses,18%
+8443,Electronics,3D Printers,18%
+8443,Electronics,Plotters,18%
+8471,Electronics,Servers,18%
+8517,Electronics,Networking Switches,18%
+8517,Electronics,Access Points,18%
+8301,Electronics,Smart Door Locks,18%
+8531,Electronics,Smart Security Systems,18%
+9504,Electronics,Video Game Controllers,28%
+8471,Electronics,Keyboards,18%
+8471,Electronics,Mouse (Computer),18%
+8528,Electronics,Monitors,28%
+8473,Electronics,Graphics Cards,18%
+8473,Electronics,Motherboards,18%
+8473,Electronics,Processors (CPU),18%
+8473,Electronics,RAM Modules,18%
+8504,Electronics,SMPS/Power Supply Units,18%
+8414,Electronics,Cooling Fans (CPU/PC),18%
+8518,Electronics,Smart Speakers,18%
+8523,Electronics,E-Readers,18%
+8523,Electronics,Digital Storage Devices,18%
+9029,Electronics,Wearable ECG Monitors,12%
+8806,Electronics,Drone Cameras,18%
+8528,Electronics,OLED TVs,28%
+8471,Electronics,Mini PCs,18%
+8517,Electronics,Satellite Phones,18%
+8516,Electronics,Electric Tandoors,18%
+8452,Electronics,Sewing Machines (Electric),18%
+8509,Electronics,Robot Vacuum Cleaners,18%
+8537,Electronics,Smart Switch Panels,18%
+8527,Electronics,Radios,18%
+8519,Electronics,Digital Voice Recorders,18%
+8471,Electronics,Chromebooks,18%
+8517,Electronics,Walkie Talkies,18%
+8543,Electronics,Smart Sensors,18%
+8525,Electronics,Dash Cameras,18%
+9027,Electronics,Pulse Oximeters,12%
+9027,Electronics,Infrared Thermometers,12%
+8504,Electronics,Solar Inverters,18%
+8539,Electronics,LED Strip Lights,12%
+8518,Electronics,Soundbars,18%
+8471,Electronics,Thin Clients,18%
+8504,Electronics,Stabilizers,18%
+3401,Houseold Goods ,Bath soap (toilet soap) - Packaged,18%
+3402,Houseold Goods ,Washing powder & detergent cake - Packaged,18%
+3402,Houseold Goods ,Dishwashing liquids & bars - Packaged,18%
+3306,Houseold Goods ,Toothpaste - Packaged,18%
+3305,Houseold Goods ,Shampoo - Packaged,18%
+3304,Houseold Goods ,Body lotion & creams - Packaged,18%
+3307,Houseold Goods ,Room fresheners - Packaged,18%
+3924,Houseold Goods ,"Plastic containers, bottles & jars - Household",18%
+3923,Houseold Goods ,"Buckets, mugs & tubs - Plastic",18%
+3924,Houseold Goods ,"Lunch boxes, tiffins & bottles - Plastic",18%
+3926,Houseold Goods ,Plastic hangers - Household,18%
+3924,Houseold Goods ,Serving trays & bowls - Plastic,18%
+3924,Houseold Goods ,Cutlery & serving spoons - Plastic,18%
+3926,Houseold Goods ,Storage bins & organizers - Plastic,18%
+3924,Houseold Goods ,"Water jugs, tumblers & cups - Plastic",18%
+4016,Houseold Goods ,Rubber mats (floor mats) - Household,18%
+4016,Houseold Goods ,Door stoppers & rubber household items,18%
+4410,Houseold Goods ,"Wooden furniture - Table, chairs",18%
+9403,Houseold Goods ,Wooden shelves & cabinets - Household,18%
+9401,Houseold Goods ,Mattresses & cushions - Household,18%
+6304,Houseold Goods ,Curtains & drapes - Fabric,12%
+6302,Houseold Goods ,Bed sheets & pillow covers - Packaged,12%
+6307,Houseold Goods ,Table cloths & napkins - Fabric,12%
+4818,Houseold Goods ,Tissue paper & napkins - Packaged,12%
+4818,Houseold Goods ,Toilet paper rolls - Packaged,12%
+3214,Houseold Goods ,Paints & varnishes - Interior use,18%
+3215,Houseold Goods ,Wall putty & primer - Packaged,18%
+3405,Houseold Goods ,Polish for wood/furniture - Packaged,18%
+3405,Houseold Goods ,Shoe polish & cleaning wax - Packaged,18%
+9603,Houseold Goods ,Brooms & brushes - Household use,5%
+9603,Houseold Goods ,Toilet cleaning brushes - Household,5%
+9603,Houseold Goods ,Clothes brush & scrubbing brush,5%
+9603,Houseold Goods ,Dusting brush & floor cleaning brush,5%
+3926,Houseold Goods ,Mop & bucket set - Plastic,18%
+9603,Houseold Goods ,Feather duster - Household,5%
+3307,Houseold Goods ,Air freshener sprays & gels - Packaged,18%
+3307,Houseold Goods ,Mosquito repellent coils/liquids - Packaged,18%
+3808,Houseold Goods ,Disinfectants & surface cleaners - Packaged,18%
+3808,Houseold Goods ,Phenyl & toilet cleaners - Packaged,18%
+3401,Houseold Goods ,Laundry soap bars - Packaged,18%
+4202,Houseold Goods ,Leather bags & wallets - Packaged,18%
+4202,Houseold Goods ,Travel bags & suitcases - Fabric,18%
+3924,Houseold Goods ,Plastic baskets & laundry bins,18%
+3926,Houseold Goods ,"Hooks, clips & holders - Plastic",18%
+7013,Houseold Goods ,"Glassware (tumblers, jars, bottles)",18%
+7013,Houseold Goods ,Drinking glasses - Household,18%
+7013,Houseold Goods ,Glass bowls & plates - Household,18%
+7013,Houseold Goods ,Decorative glass vases - Household,18%
+7013,Houseold Goods ,Glass storage containers - Household,18%
+6911,Houseold Goods ,"Ceramic cups, plates & dishes",12%
+6911,Houseold Goods ,Porcelain dinner sets - Household,12%
+6912,Houseold Goods ,Stoneware & crockery - Packaged,12%
+8211,Houseold Goods ,Kitchen knives - Stainless steel,18%
+8215,Houseold Goods ,"Spoons, forks & table cutlery - Metal",18%
+7323,Houseold Goods ,"Steel utensils (pots, pans, plates)",12%
+7323,Houseold Goods ,Pressure cooker - Stainless steel,12%
+7323,Houseold Goods ,Serving bowls & dishes - Steel,12%
+7323,Houseold Goods ,Kitchen strainers & sieves - Steel,12%
+7323,Houseold Goods ,Storage containers (steel) - Packaged,12%
+4419,Houseold Goods ,Wooden chopping board - Household,12%
+4419,Houseold Goods ,Wooden serving tray - Household,12%
+4421,Houseold Goods ,"Wooden spoons, spatulas - Household",12%
+9405,Houseold Goods ,Candle holders - Decorative,12%
+3406,Houseold Goods ,Candles - Household,12%
+3406,Houseold Goods ,Aromatic candles - Decorative,12%
+3926,Houseold Goods ,Artificial flowers & plants - Plastic,12%
+9403,Houseold Goods ,Shoe racks & stands - Wooden,18%
+9403,Houseold Goods ,Dining tables & chairs - Wooden,18%
+9403,Houseold Goods ,Sofas & couches - Wooden/fabric,18%
+9403,Houseold Goods ,Center tables & coffee tables,18%
+9403,Houseold Goods ,Study tables & writing desks,18%
+9403,Houseold Goods ,Wardrobes & cupboards,18%
+9403,Houseold Goods ,TV units & stands,18%
+9403,Houseold Goods ,Side tables & nightstands,18%
+3926,Houseold Goods ,Plastic stools & chairs - Household,18%
+7323,Houseold Goods ,Iron kitchen racks & shelves,18%
+4421,Houseold Goods ,Wooden racks & organizers,18%
+3923,Houseold Goods ,Plastic jars & canisters - Household,18%
+3924,Houseold Goods ,Plastic bowls - Packaged,18%
+4820,Houseold Goods ,"Notebooks, registers & diaries",12%
+4820,Houseold Goods ,Sticky notes & memo pads,12%
+4811,Houseold Goods ,Wrapping paper & paperboard,12%
+6307,Houseold Goods ,Laundry bags & fabric baskets,12%
+6810,Houseold Goods ,Cement articles (flower pots),18%
+6810,Houseold Goods ,Planters & stands - Concrete,18%
+3926,Houseold Goods ,Plastic planters - Household,18%
+7020,Houseold Goods ,Glass flower vases - Household,18%
+8302,Houseold Goods ,Curtain rods & hooks - Metal,18%
+8302,Houseold Goods ,Wall brackets & hangers - Metal,18%
+8302,Houseold Goods ,Door handles & knobs - Metal,18%
+8302,Houseold Goods ,Coat hooks & stands - Metal,18%
+8214,Houseold Goods ,Scissors & household cutting tools,18%
+8213,Houseold Goods ,Can openers & peelers - Household,18%
+8212,Houseold Goods ,Razors & blades - Packaged,18%
+9615,Houseold Goods ,Combs & hairbrushes - Household,18%
+3307,Houseold Goods ,Incense sticks & dhoop - Packaged,5%
+3307,Houseold Goods ,Agarbatti holders - Decorative,12%
+7013,Houseold Goods ,Glass candle stands - Decorative,12%
+3215,Houseold Goods ,Wall primer & base coat - Packaged,18%
+3214,Houseold Goods ,Furniture paint - Packaged,18%
+1006,Food,Rice (polished/packaged),5%
+1001,Food,Wheat (packaged),5%
+1005,Food,Maize / Corn (dried),5%
+1008,Food,"Millets (sorghum, bajra, ragi) - packaged",5%
+1101,Food,Branded Atta (wheat flour),5%
+1102,Food,Maida (refined wheat flour) - packaged,5%
+1207,Food,"Oil seeds (soyabean, sunflower) - raw",0%
+1507,Food,"Edible oil (refined, packaged)",5%
+1508,Food,Olive oil (edible) - packaged,5%
+401,Food,"Milk (pasteurised, branded tetra pack)",5%
+401,Food,Milk (fresh/unbranded),0%
+405,Food,Butter (packaged),5%
+405,Food,Ghee (clarified butter) - packaged,5%
+406,Food,Cheese (packaged),5%
+403,Food,Yogurt / Curd (packaged),5%
+402,Food,Milk powder (skimmed/full cream),5%
+1701,Food,Sugar (packaged),5%
+1702,Food,Lactose and other dairy sugars,5%
+902,Food,Tea (loose/packaged non-instant),5%
+901,Food,Coffee (non-instant/green/roasted),5%
+904,Food,Pepper (black) - dried,5%
+908,Food,"Cloves, cinnamon (spices) - packed",5%
+910,Food,Ginger (dried/powder) - packed,5%
+912,Food,Mixtures of spices (masala mixes) - packed,5%
+2106,Food,"Instant food mixes (soups, mixes)",5%
+1905,Food,"Bakery products (bread, cakes) - packaged",5%
+1901,Food,"Malted flour, cereals (cornflakes) - packaged",5%
+1902,Food,"Pasta, noodles (instant & non-instant) - packaged",5%
+2005,Food,Vegetables preserved/processed (canned/frozen),5%
+2009,Food,Fruit juices (non-alcoholic) - packaged,5%
+2008,Food,"Fruit preparations (jams, jellies) - packaged",5%
+2001,Food,"Vegetables (fresh, unbranded)",0%
+207,Food,"Meat (fresh/chilled, not preserved)",0%
+1604,Food,Prepared fish/meat (frozen/processed),5%
+210,Food,Meat prepared or preserved (canned),5%
+303,Food,Fish (fresh/chilled) - edible,0%
+304,Food,Fish frozen / preserved - packaged,5%
+409,Food,Animal fats (edible) - processed,5%
+1602,Food,Other prepared or preserved meat based foods,5%
+2001,Food,Potatoes (fresh) - unbranded,0%
+714,Food,"Cassava, sago - dried",0%
+713,Food,"Dried legumes (peas, lentils) - unpackaged",0%
+713,Food,"Pulses (packaged)- chana, moong, masoor",5%
+2309,Food,Prepared animal feed (packed),5%
+714,Food,Roots & tubers - processed/packaged,5%
+803,Food,Bananas (fresh),0%
+804,Food,Apples (fresh),0%
+805,Food,Citrus fruits (fresh),0%
+813,Food,Frozen fruits - packaged,5%
+811,Food,Fruit and nut (dried) - packaged,5%
+712,Food,"Peanut/groundnut (raw, unbranded)",0%
+1202,Food,"Peanut/groundnut (shelled, packaged)",5%
+2008,Food,"Edible nuts (cashew, almonds) - packaged",5%
+1509,Food,Olive oil (other) - edible,5%
+1704,Food,Sugar confectionery (chocolates etc.),5%
+1806,Food,Chocolate & cocoa preparations,5%
+2103,Food,"Sauces, ketchup, mayonnaise - packaged",5%
+2003,Food,Preserved vegetables (pickles) - packed,5%
+2007,Food,"Jams, marmalades - packaged",5%
+2004,Food,"Vegetables, fruits preserved in sugar/syrup",5%
+2002,Food,Tomato ketchup and other prepared sauces,5%
+2105,Food,Ice cream and edible ice cream products,5%
+2008,Food,"Cornflakes, breakfast cereals - packaged",5%
+1701,Food,Molasses & syrups - packaged,5%
+906,Food,Herbal teas and infusions - packaged,5%
+2202,Food,Mineral water / packaged drinking water,5%
+2204,Food,Soft drinks (non-alcoholic) - packaged,18%
+2009,Food,Nectar / flavoured drinks - packaged,12%
+1104,Food,Cereal flours (besan) - packaged,5%
+1106,Food,Flours of pulses - packaged,5%
+713,Food,Split legumes (dal) - packaged,5%
+2302,Food,"Bran, sharps and other residues (animal feed)",5%
+2106,Food,Instant noodles (packaged),5%
+2106,Food,Ready-to-eat meals (sealed) - packaged,5%
+2005,Food,Frozen ready meals - packaged,5%
+709,Food,Vegetables dehydrated - packaged,5%
+909,Food,Seeds for sowing - excluded,0%
+1507,Food,Hydrogenated vegetable oil - vanaspati (edible),5%
+2106,Food,Powdered drink mixes (instant) - packaged,5%
+405,Food,Dairy spreads - packaged,5%
+2001,Food,Eggs (fresh) - unbranded,0%
+2106,Food,Protein bars / health bars - packaged,5%
+2106,Food,Energy drinks (non-alcoholic) - packaged,18%
+2005,Food,Frozen potato products (fries) - packaged,5%
+1006,Food,Broken rice & rice flakes (poha) - packaged,5%
+1209,Food,Seeds & fruit for sowing - excluded,0%
+2008,Food,Pasta & couscous - packaged,5%
+2009,Food,Tomato puree / paste - packaged,5%
+406,Food,Processed cheese slices - packaged,5%
+406,Food,Paneer (packaged),5%
+2106,Food,"Snack foods - namkeen, bhujia - packaged",5%
+1604,Food,Frozen seafood processed - packaged,5%
+2106,Food,Canned soups - packaged,5%
+2008,Food,Pickles (industrial packaged),5%
+408,Food,Edible offal (processed) - packaged,5%
+210,Food,Sausages and similar - packaged,5%
+2001,Food,"Herbs fresh (mint, coriander) - unbranded",0%
+2106,Food,Condensed milk (sweetened) - packaged,5%
+402,Food,Infant milk food / formula - packaged,5%
+405,Food,Buttermilk & lassi (packaged),5%
+2009,Food,Fruit concentrates - packaged,5%
+2005,Food,Frozen vegetables - packaged,5%
+210,Food,Canned meat products - packaged,5%
+1601,Food,"Sausages, prepared meat - packaged",5%
+2002,Food,Coconut (fresh) - unbranded,0%
