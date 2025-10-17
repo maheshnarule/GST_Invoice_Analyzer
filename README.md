@@ -20,21 +20,21 @@ It simplifies GST compliance and accounting workflows by leveraging automation a
 
 ## ⚙️ Installation & Setup
 
-### Step 1: Prerequisites Setup
+# Step 1: Prerequisites Setup
 
-#### 🐍 Install Python 3.8+
+# 🐍 Install Python 3.8+
 - Download from [python.org](https://www.python.org/downloads/)
 - Verify installation:
   ```bash
   python --version
 
-# ##Get Google API Key
+# Get Google API Key
 
 -Visit Google AI Studio
 -Create an API key for Gemini AI
 -Save the key securely for use in the application
 
-# ##Step 2: Application Setup
+# Step 2: Application Setup
 
 Extract all project files into a folder.
 
@@ -66,7 +66,7 @@ streamlit run main_app.py
 Once launched, the app will open automatically in your default browser at:
 👉 http://localhost:8501
 
-### Technologies Used
+# Technologies Used
 
 Python
 
